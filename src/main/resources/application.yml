@@ -1,0 +1,8 @@
+launchdarkly:
+  sdkKey: ${LAUNCHDARKLY_SDK_KEY}
+  user: ${LAUNCHDARKLY_USER}
+
+
+erpbroker:
+    feature:
+      pocflag: 'erp_broker-poc'
